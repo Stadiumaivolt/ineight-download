@@ -85,3 +85,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for InEight.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit InEight on SOFTGIT](https://softgit.pro/p/ineight)** — the full listing.
+- 📄 **[InEight web page](https://stadiumaivolt.github.io/ineight-download/)** — standalone info page.
+- 🗂️ [More Developer tools software](https://softgit.pro/category/developer-tools-2)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for InEight. Third-party software; all rights belong to the original authors.
